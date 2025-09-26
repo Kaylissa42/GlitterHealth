@@ -1,0 +1,16 @@
+## Interface: 110200
+## Interface-Retail: 110200
+## Title: GlitterHealth
+## Notes: Health-style activity tracker
+## Author: Kaylissa
+## Version: 1.3.0
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: GlitterHealthDB
+## OptionalDeps: LibSharedMedia-3.0
+## X-Embeds: LibSharedMedia-3.0
+## X-Category: Roleplay
+## IconTexture: Interface\ICONS\inv_heartofazeroth
+## Category-enUS: Roleplay
+
+GlitterHealth.lua
+Minimap.lua
