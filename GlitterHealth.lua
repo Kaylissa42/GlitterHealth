@@ -1,4 +1,4 @@
--- GlitterHealth - v1.4.1
+-- GlitterHealth - v1.4.2
 -- Author: Kaylissa
 
 ADDON_NAME, NS = ...
